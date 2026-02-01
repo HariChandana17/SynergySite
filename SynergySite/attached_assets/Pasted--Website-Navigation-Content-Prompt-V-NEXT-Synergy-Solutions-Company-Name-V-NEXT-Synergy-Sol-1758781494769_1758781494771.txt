@@ -1,28 +1,23 @@
-🌐 Website Navigation & Content Prompt – V NEXT Synergy Solutions
+🌐 Website Navigation & Content Prompt – V NEXT
  
-Company Name: V NEXT Synergy Solutions
+Company Name: V NEXT 
 Logo Placement: Header (top-left) + Footer (bottom of every page)
 Navigation Tabs: Home | About | Services | Industries | Contact
  
 📌 1. Home Page
  
 Hero Banner (Tagline + CTA)
- 
 About Us (short intro with Mission & Vision)
- 
 Snapshot of Services (Inventory | Manpower | Franchise) with “Learn More” buttons → links to Services Page
- 
 Industries We Serve (grid/tiles)
- 
+Buy / Sell
 Why Choose Us (trust-building points)
- 
 Contact Info + CTA
  
 📌 2. Services Page (Core Services Overview)
  
 Title: Our Services
-Intro: At V NEXT Synergy Solutions, we specialize in three core areas to help businesses achieve accuracy, efficiency, and growth.
- 
+Intro: At V NEXT, we specialize in three core areas to help businesses achieve accuracy, efficiency, and growth.
 Display 3 service cards side by side (or stacked):
  
 Inventory Solutions
