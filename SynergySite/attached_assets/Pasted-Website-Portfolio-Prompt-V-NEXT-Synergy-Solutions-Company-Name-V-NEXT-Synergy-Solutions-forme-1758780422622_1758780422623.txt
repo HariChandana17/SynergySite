@@ -45,6 +45,20 @@ Manufacturing
 Logistics
 (Add more as per expansion)
 
+📌 Buy/ Sell
+non moving stock liquidation (dead stock)
+Product / Spare Support -
+For example m&m tractors
+- dead stock 
+analysis for parts how many parts have been sold for year - analyzing how many dead stock exists 
+we plan to be a bridge between new buyers to buy directly from dead stock so that each party benefits
+feature :
+- Part / Non moving liquidation 
+2 Forms exists - 
+  - Buyer Form to enquire about any part: semd your requirement 
+  - Seller Form to add details of dead stock. since manually it takes time we could extract infor if the excel or .txt files or dropped.
+[Important Params: brand; year of manufacturing: serial number; year of purchase; part number ; description]
+
 📌 Why Choose Us?
 Strong expertise in audits & compliance
 Technology-driven approach (ERP, RFID, barcodes)
